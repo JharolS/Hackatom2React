@@ -7,7 +7,7 @@ const Options = () => {
             <h3>SOLUTION</h3>
             <h3>PARTNERS</h3>
             <h3>PATIENT</h3>
-            <combobox>ABOUT</combobox>
+            <h3>ABOUT</h3>
             <div>
             <button>CONTACT</button>
             </div>

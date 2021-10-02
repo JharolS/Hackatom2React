@@ -1,24 +1,21 @@
 .option {
     background: rgb(0, 157, 255);
     display: flex;
+    padding-right: 20px;
 }
 .option h3 {
     color: white;
     padding: 10px;
-}
-.option combobox {
-    color: white;
-    padding: 10px;
-    margin: 20px;
     display: flex;
 }
 .option button {
     background: rgb(0, 42, 255);
     color: white;
     padding: 10px;
-    margin: 10px;
-    font-size: 12px;  
-    width: 77px
+    margin-top: 24px;
+    font-size: 12px;
+    width: 74px;
+    
 }
 .option section {
     display: flex;
