@@ -1,7 +1,8 @@
 .logging {
     background: orange;
     color : white;
-    width: 398px
+    width: 398px;
+    padding-left: 10px;;
 }
 .body {
     margin-top: 13em ;
@@ -14,6 +15,7 @@
 }
 .logging textarea {
     margin: 10px;
+    flex-direction: row;
 }
 .logging form {
     margin-top: 5em;
@@ -22,5 +24,7 @@
     background: rgb(125, 88, 18);
     color: white;
     padding: 10px;
-    margin-left: 10px
+    margin-left: 10px;
+    margin-bottom: 10px;
+    flex-direction: row;
 }

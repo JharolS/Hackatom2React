@@ -13,7 +13,7 @@
     display: flex;
 }
 .option button {
-    background: rgb(0, 157, 255);
+    background: rgb(0, 42, 255);
     color: white;
     padding: 10px;
     margin: 10px;
@@ -22,5 +22,4 @@
 }
 .option section {
     display: flex;
-    margin: 50px;
 }
