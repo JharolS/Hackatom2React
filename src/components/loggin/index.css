@@ -1,0 +1,26 @@
+.logging {
+    background: orange;
+    color : white;
+    width: 398px
+}
+.body {
+    margin-top: 13em ;
+}
+.logging p {
+    margin-top: 2em;
+}
+.logging letter {
+    margin-top: 2em;
+}
+.logging textarea {
+    margin: 10px;
+}
+.logging form {
+    margin-top: 5em;
+}
+.logging button {
+    background: rgb(125, 88, 18);
+    color: white;
+    padding: 10px;
+    margin-left: 10px
+}

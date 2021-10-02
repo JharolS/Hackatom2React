@@ -1,24 +1,18 @@
 import React from "react";
-
+import "./index.css";
 const Logging = () => {
     return(
         <div className="logging">
             <h1>YouBase</h1 >
             <div className="body">
-            <h1>Connect to people,</h1>
-            <h1>not platforms</h1>
-            <div>Person-mediate health data exchange is the</div>
-            <div>future of Health IT and precision medicine</div>
-            <div>YouBase was built to take us there</div>
+            <h1>Connect to people, not platforms</h1>
+            <div>Person-mediate health data exchange is the future of Health IT and precision medicine YouBase was built to take us there</div>
             </div>
             <form>
             <label>
-                <p>Sign up for out beta list to learn more</p>
-                <imput type="text" name="email" />
+                <p className="p">Sign up for out beta list to learn more</p>
+                <textarea className="textarea"></textarea><button className="button">Get Started</button>
             </label>
-            <div>
-                <button>Get Started</button>
-            </div>
             </form>
         </div>
     )
