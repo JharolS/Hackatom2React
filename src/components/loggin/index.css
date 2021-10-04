@@ -1,30 +1,32 @@
 .logging {
     background: orange;
     color : white;
-    width: 398px;
-    padding-left: 10px;;
+    width: 100%px;
+    padding-left: 73px;
+    padding-right: 495px;
+    padding-bottom: 1em;
 }
 .body {
-    margin-top: 13em ;
+    margin-top: 5em ;
+    font-size: 19px;
+    width: 174%;
 }
 .logging p {
     margin-top: 2em;
-}
-.logging letter {
-    margin-top: 2em;
-}
-.logging textarea {
-    margin: 10px;
-    flex-direction: row;
+    width: 212px;
 }
 .logging form {
     margin-top: 5em;
+    padding-bottom: 20px;
 }
+.logging textarea {
+    margin-top: 10px;
+}
+
 .logging button {
     background: rgb(125, 88, 18);
     color: white;
     padding: 10px;
     margin-left: 10px;
-    margin-bottom: 10px;
-    flex-direction: row;
+    font-size: 14px;
 }

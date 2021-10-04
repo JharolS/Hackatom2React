@@ -11,9 +11,9 @@ const Logging = () => {
             <form>
             <label>
                 <p className="p">Sign up for out beta list to learn more</p>
-                <textarea className="textarea"></textarea><button className="button">Get Started</button>
             </label>
             </form>
+            <textarea ></textarea><button >Get Started</button>
         </div>
     )
 }
